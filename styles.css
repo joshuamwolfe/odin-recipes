@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+.main_recipes {
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+
+.main_recipes ul li {
+    list-style-type: none;
+    padding: 2px;
+    font-size: 2rem;
+}
+
